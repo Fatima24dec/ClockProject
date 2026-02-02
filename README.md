@@ -1,6 +1,9 @@
 # Clock Project
 A Java GUI application showing a blinking clock message
 
+![Timer](image/timer.png)
+
+
 A simple Java Swing project that shows a blinking label.  
 The label message changes visibility every 500 milliseconds.  
 
